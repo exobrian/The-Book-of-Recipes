@@ -1,0 +1,13 @@
+img {
+    object-fit: scale-down;
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
+
+.icon {
+    height: 50px;
+    width: 50px;        
+    display:block;
+    text-align:left;
+}
